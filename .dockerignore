@@ -1,0 +1,35 @@
+# Git
+.git/
+.gitignore
+
+# Environnements Python
+.venv/
+venv/
+.env
+.env.*
+
+# Cache Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Notebooks et exploration
+notebooks/
+exploration/
+.ipynb_checkpoints/
+
+# Evaluation et datasets
+evaluation/
+datasets/
+mlflow_tracking/
+
+# Documentation
+docs/
+*.md
+
+# Configuration des IDE
+.vscode/
+.idea/
+
+# Dépendances de développement
+requirements-dev.txt

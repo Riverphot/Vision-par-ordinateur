@@ -1,0 +1,27 @@
+services:
+  vision-api:
+    build:
+      context: .
+    image: vision-api:dev
+    container_name: vision-api-dev
+
+    ports:
+      - "8000:8000"
+
+    volumes:
+      # Synchronisation du code source
+      - ./main.py:/app/main.py
+      - ./inference.py:/app/inference.py
+      - ./dicom_utils.py:/app/dicom_utils.py
+      - ./gradio_ui.py:/app/gradio_ui.py
+
+    command:
+      - uvicorn
+      - main:app
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8000"
+      - --reload
+      - --reload-dir
+      - /app

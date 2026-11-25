@@ -1,0 +1,15 @@
+# Dépendances de l'application
+-r requirements.txt
+
+# Evaluation et analyse
+scikit-learn==1.9.1
+pandas==3.1.1
+matplotlib==3.11.2
+psutil==7.2.2
+
+# Notebooks
+jupyter==1.1.1
+ipykernel==7.4.0
+
+# MLOps
+mlflow==3.18.0

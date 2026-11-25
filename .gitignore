@@ -1,0 +1,42 @@
+# Environnements Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Modèles et poids (fichiers volumineux)
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Données et résultats locaux
+datasets/irma_original/test
+datasets/irma_original/train
+evaluation/resultats/
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+mlflow_tracking/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tokens et identifiants sensibles
+/token.txt

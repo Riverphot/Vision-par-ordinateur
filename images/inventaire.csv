@@ -1,0 +1,17 @@
+Fichier;Format;Région / Modalité;Description;Source
+images/thorax_normal.jpg;JPEG;Thorax;Radiographie thoracique décrite comme normale;Wikimedia Commons
+images/main_normale.jpg;JPEG;Main;Radiographie de main décrite comme normale;Wikimedia Commons
+images/genoux_normaux.jpg;JPEG;Genoux;Radiographie des genoux décrits comme normaux;Wikimedia Commons
+images/pied_normal.jpg;JPEG;Pied;Radiographie de pied décrite comme normale;Wikimedia Commons
+images/crane_profil.jpg;JPEG;Crâne;Radiographie du crâne de profil;Wikimedia Commons
+images/poignet_fracture_barton.jpg;JPEG;Poignet;Radiographie présentant une fracture de Barton;Wikimedia Commons
+images/poignet_fracture_colles.jpg;JPEG;Poignet;Radiographie présentant une fracture de Colles;Wikimedia Commons
+images/thorax_normal.png;PNG;Thorax;Conversion PNG de la radiographie thoracique;Wikimedia Commons
+images/main_normale.png;PNG;Main;Conversion PNG de la radiographie de la main;Wikimedia Commons
+dicom/CT_small.dcm;DICOM;Scanner (CT);Fichier DICOM de test issu du projet pydicom;GitHub – pydicom
+dicom/MR_small.dcm;DICOM;IRM (MR);Fichier DICOM de test issu du projet pydicom;GitHub – pydicom
+dicom/DX_thorax_COVID_SBU.dcm;DICOM;Thorax (CR);Radiographie thoracique issue de la collection COVID-19-NY-SBU;Saga IT
+dicom/DX_thorax_LIDC.dcm;DICOM;Thorax (DX);Radiographie thoracique issue de la collection LIDC-IDRI;Saga IT
+dicom/radio_thorax_TensorFlow.dcm;DICOM;Thorax (DX);Radiographie thoracique de démonstration TensorFlow I/O, issue du NIH;GitHub – TensorFlow
+dicom/OT_genou_AP_OrthoView.dcm;DICOM;Genou (OT);Radiographie du genou en incidence antéropostérieure (AP), avec une modalité DICOM codée OT;OrthoView
+dicom/OT_epaule_AP_OrthoView.dcm;DICOM;Épaule (OT);Radiographie de l'épaule en incidence antéropostérieure (AP), avec une modalité DICOM codée OT;OrthoView

@@ -1,0 +1,1000 @@
+2036.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),supine,abdomen,uropoietic system
+2148.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2163.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2164.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2167.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2180.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2233.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),upper arm,left upper arm,musculosceletal system
+2259.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+2266.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+2273.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+2284.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+2307.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left distal forearm,musculosceletal system
+2332.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2352.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2356.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2360.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2365.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2399.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2400.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2402.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+2409.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2416.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+2430.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+2451.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),upper arm,right proximal upper arm,musculosceletal system
+2457.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+2466.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+2496.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+2527.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+2539.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+2550.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+2572.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,left hip,musculosceletal system
+2596.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+2605.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+2617.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,right hip,musculosceletal system
+2631.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),upper leg,musculosceletal system
+2641.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+2657.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+2660.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+2671.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+2687.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,toe,musculosceletal system
+2688.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+2745.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+2748.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),foot,right foot,musculosceletal system
+2751.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+2756.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),upper leg,distal upper leg,musculosceletal system
+2765.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+2781.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,right hip,musculosceletal system
+2813.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,right hip,musculosceletal system
+2903.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+2940.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+2944.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+2950.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+2959.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+2987.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+2993.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+3019.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+3024.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+3029.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+3041.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+3046.png x-ray,plain radiography,analog,overview image,other orientation,frontooccipital,cranium,neuro cranium,occipital area,musculosceletal system
+3060.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+3082.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,nose area,musculosceletal system
+3116.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+3126.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,nose area,musculosceletal system
+3160.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+3213.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+3226.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3237.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3280.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+3289.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+3296.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+3299.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3306.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+3307.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3316.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3321.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3323.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3356.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3390.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3394.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3422.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+3461.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3550.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3579.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left clavicle,musculosceletal system
+3582.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left clavicle,musculosceletal system
+3583.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left clavicle,musculosceletal system
+3593.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+3612.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+3613.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+3642.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+3712.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+3742.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+3778.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,dens,musculosceletal system
+3821.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+3823.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,reclination,spine,cervical spine,musculosceletal system
+3829.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+3835.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+3837.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+3878.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+3885.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+3890.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+3951.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+3952.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+3969.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+3972.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+3979.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,facial cranium,nose area,musculosceletal system
+3981.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+3982.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4068.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+4081.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+4088.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+4092.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4104.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+4127.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,dens,musculosceletal system
+4132.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+4180.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+4182.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+4189.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+4195.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+4197.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left forefoot,musculosceletal system
+4222.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+4223.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+4231.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+4247.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,left hip,musculosceletal system
+4280.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+4306.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+4345.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+4402.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+4417.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4448.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4453.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4464.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+4478.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),cranium,facial cranium,nose area,musculosceletal system
+4479.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),cranium,facial cranium,nose area,musculosceletal system
+4482.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+4489.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+4509.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+4528.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4541.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4542.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4566.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4567.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4575.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4577.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4581.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4598.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4602.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+4613.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,right elbow,musculosceletal system
+4625.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+4627.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+4631.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4657.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+4661.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4672.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+4677.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,left hip,musculosceletal system
+4679.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,left hip,musculosceletal system
+4683.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+4694.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+4700.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+4701.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+4724.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+4733.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+4735.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4742.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+4748.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4750.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4779.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+4828.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+4848.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+4864.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4874.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4891.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4898.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4904.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+4939.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+4943.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+4949.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+4977.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5007.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,left forearm,musculosceletal system
+5020.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+5030.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5046.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5049.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5119.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+5192.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5240.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+5273.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+5283.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5285.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5301.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5349.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5404.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5407.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5408.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5414.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left distal forearm,musculosceletal system
+5464.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5466.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+5470.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5503.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+5521.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5534.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5535.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5560.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+5577.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5582.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+5627.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5645.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5648.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5658.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+5678.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,mandible,musculosceletal system
+5711.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5753.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5754.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5843.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+5899.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5921.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+5936.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+5948.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+5958.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+5980.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+5992.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6035.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+6047.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+6050.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6055.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+6084.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+6093.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,dens,musculosceletal system
+6107.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+6112.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6117.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+6129.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+6132.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+6146.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+6147.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+6153.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6197.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6267.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+6279.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6284.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6295.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6296.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6304.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+6309.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6310.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6330.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6331.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6343.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),upper leg,distal upper leg,musculosceletal system
+6355.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6371.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6395.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),upper leg,right proximal upper leg,musculosceletal system
+6410.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6423.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6424.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6450.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6460.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+6487.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),lower leg,musculosceletal system
+6498.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+6506.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+6531.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+6545.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6554.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),lower leg,right distal lower leg,musculosceletal system
+6574.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6576.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6578.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6585.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+6616.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6653.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6659.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6699.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left ribs,musculosceletal system
+6725.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),supine,abdomen,gastrointestinal system
+6732.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,right ribs,musculosceletal system
+6810.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6823.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,left hip,musculosceletal system
+6845.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),supine,abdomen,gastrointestinal system
+6850.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6858.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6859.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6886.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+6922.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+6964.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6965.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+6968.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+6991.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7003.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7005.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7018.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+7056.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7113.png x-ray,plain radiography,analog,overview image,other orientation,frontooccipital,cranium,neuro cranium,occipital area,musculosceletal system
+7120.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+7132.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+7136.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+7143.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+7198.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+7215.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7233.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7235.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7265.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+7285.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+7305.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7323.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7339.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+7350.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7368.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7383.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7396.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7427.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+7430.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7454.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7469.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+7490.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7540.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+7542.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+7563.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7572.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+7583.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7592.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7605.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7641.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7661.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),upper arm,left upper arm,musculosceletal system
+7675.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+7688.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+7696.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+7702.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7712.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+7730.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7745.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7783.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+7809.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,facial cranium,nose area,musculosceletal system
+7813.png x-ray,plain radiography,analog,overview image,other orientation,submentobregmaticofrontal,cranium,facial cranium,temporo mandibular area,musculosceletal system
+7843.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+7883.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,right hip,musculosceletal system
+7914.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+7915.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+7916.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,right elbow,musculosceletal system
+7930.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+7994.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+8031.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),upper leg,distal upper leg,musculosceletal system
+8034.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8074.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8089.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8104.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left clavicle,musculosceletal system
+8127.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8165.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8167.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+8253.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8267.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8282.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+8308.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+8310.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+8350.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+8353.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,left hip,musculosceletal system
+8380.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+8475.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+8527.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+8531.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+8606.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+8613.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+8671.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+8692.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+8760.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),hand,carpal bones,musculosceletal system
+8778.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,left elbow,musculosceletal system
+8802.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+8818.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left forearm,musculosceletal system
+8892.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+8901.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+8965.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+8969.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+9019.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9024.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+9063.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9076.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9085.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+9088.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9098.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9106.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+9108.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9124.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9127.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9136.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),left breast,reproductive system,female system,breast
+9183.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9186.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+9194.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+9195.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+9213.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+9230.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9256.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9257.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),left breast,reproductive system,female system,breast
+9260.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9272.png x-ray,plain radiography,analog,low beam energy,other orientation,oblique,breast (mamma),right breast,reproductive system,female system,breast
+9274.png x-ray,plain radiography,analog,low beam energy,axial,craniocaudal,breast (mamma),right breast,reproductive system,female system,breast
+9313.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+9327.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+9334.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,right distal forearm,musculosceletal system
+9356.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+9365.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+9384.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+9393.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+9397.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+9404.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+9405.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+9413.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+9418.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+9488.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+9493.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+9498.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+9500.png x-ray,plain radiography,analog,overview image,other orientation,frontooccipital,cranium,neuro cranium,occipital area,musculosceletal system
+9509.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+9514.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+9526.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+9531.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+9534.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+9543.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,right forearm,musculosceletal system
+9558.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+9559.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+9561.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+9567.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+9604.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+9611.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+9616.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+9617.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+9625.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+9639.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+9710.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+9727.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+9735.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,right hip,musculosceletal system
+9743.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+9747.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+9795.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,facial cranium,nose area,musculosceletal system
+9802.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+9834.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+9841.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),foot,toe,musculosceletal system
+9857.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left forefoot,musculosceletal system
+9868.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+9909.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+9912.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+9918.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+9925.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+9933.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+9940.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+9943.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+9949.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10008.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+10051.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+10100.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10113.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+10179.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+10183.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+10222.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+10231.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),lower leg,right distal lower leg,musculosceletal system
+10256.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,right hip,musculosceletal system
+10274.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10289.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10326.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10334.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+10339.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+10340.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+10342.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+10343.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+10345.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,left elbow,musculosceletal system
+10349.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+10350.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+10357.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,right clavicle,musculosceletal system
+10361.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,left distal forearm,musculosceletal system
+10386.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+10396.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+10429.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+10436.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,right distal lower leg,musculosceletal system
+10448.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,left elbow,musculosceletal system
+10457.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+10462.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+10492.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+10501.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+10518.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,right distal forearm,musculosceletal system
+10521.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+10542.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+10543.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,musculosceletal system
+10545.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+10557.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+10558.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+10564.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+10565.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+10568.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+10580.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+10692.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),axial,upper extremity (arm),shoulder,right scapula,musculosceletal system
+10698.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,left elbow,musculosceletal system
+10712.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+10720.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+10724.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,right clavicle,musculosceletal system
+10737.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lateral decubitus,abdomen,gastrointestinal system
+10738.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+10759.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+10760.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+10771.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,right distal lower leg,musculosceletal system
+10812.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+10825.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+10833.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10839.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10846.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10848.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+10926.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+10941.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+10958.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+11025.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+11044.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11062.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11087.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11110.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11124.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11142.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,left elbow,musculosceletal system
+11173.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+11175.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+11190.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+11231.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+11293.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+11299.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+11326.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+11338.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+11340.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+11353.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+11364.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11377.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11393.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11572.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+11579.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+11585.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+11595.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,eye area,musculosceletal system
+11623.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+11624.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+11649.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+11676.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11681.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11720.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+11732.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,eye area,musculosceletal system
+11788.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+11796.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11857.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+11947.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+11958.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12011.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+12026.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+12029.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12065.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12067.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+12091.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+12143.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12157.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+12207.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12238.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,right elbow,musculosceletal system
+12248.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),axial,upper extremity (arm),shoulder,left scapula,musculosceletal system
+12260.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+12262.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+12289.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+12337.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,left distal lower leg,musculosceletal system
+12407.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12510.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+12511.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),expiration,chest
+12603.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12752.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,toe,musculosceletal system
+12799.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12847.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+12968.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13008.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+13027.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+13030.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+13031.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+13074.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+13115.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,left elbow,musculosceletal system
+13127.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+13170.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+13223.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+13309.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,left hip,musculosceletal system
+13341.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+13382.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+13434.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13504.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+13547.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,nose area,musculosceletal system
+13558.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13581.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13623.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+13625.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+13630.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+13655.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+13657.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+13675.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+13731.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13732.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13755.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+13758.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+13780.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+13945.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),sitting,lower extremity (leg),foot,calcaneus,musculosceletal system
+13991.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+13999.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+14001.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+14063.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14090.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14095.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+14110.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+14114.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+14133.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14147.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+14153.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14158.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,right hand,musculosceletal system
+14254.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),hand,carpal bones,musculosceletal system
+14299.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14360.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+14365.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+14399.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,upper abdomen,gastrointestinal system
+14436.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14439.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14446.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+14462.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+14551.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14561.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14578.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14585.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14604.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14639.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+14674.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+14684.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+14726.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left ribs,musculosceletal system
+14792.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+14805.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+14835.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+14860.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+14914.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14935.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+14951.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),expiration,chest
+14960.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+15015.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+15052.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+15058.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+15078.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+15119.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,right ribs,musculosceletal system
+15130.png x-ray,plain radiography,analog,overview image,other orientation,frontooccipital,cranium,neuro cranium,occipital area,musculosceletal system
+15180.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15224.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+15289.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15338.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15339.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15418.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),upper extremity (arm),hand,left hand,musculosceletal system
+15435.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,toe,musculosceletal system
+15436.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,toe,musculosceletal system
+15453.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+15475.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+15507.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right forefoot,musculosceletal system
+15511.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,left elbow,musculosceletal system
+15555.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+15598.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15605.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15688.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),expiration,chest
+15697.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+15740.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+15750.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+15800.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15862.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+15880.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+15883.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+15896.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+15957.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+15965.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+15981.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+16050.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16061.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16068.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16112.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+16162.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+16172.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16176.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,musculosceletal system
+16232.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+16236.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+16302.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+16314.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+16343.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16345.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+16359.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+16388.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+16420.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+16431.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+16434.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+16472.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16621.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,left hand,musculosceletal system
+16628.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16766.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+16779.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+16785.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+16835.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+16888.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+16898.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+16916.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+16923.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+17017.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+17120.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),cranium,musculosceletal system
+17204.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+17210.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+17223.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),expiration,chest
+17229.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+17243.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+17265.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+17286.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+17322.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,thoraco-lumbar conjunction,musculosceletal system
+17366.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+17371.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,facial cranium,nose area,musculosceletal system
+17382.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17400.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17416.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17456.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+17472.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),upper arm,right upper arm,musculosceletal system
+17500.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+17507.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+17567.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+17569.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+17574.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+17595.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+17656.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17680.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17689.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17775.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+17795.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17796.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+17802.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+17852.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+17861.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+17967.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,lumbar spine,musculosceletal system
+17992.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18018.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18039.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,right clavicle,musculosceletal system
+18055.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+18071.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+18094.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+18102.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+18108.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,upper abdomen,gastrointestinal system
+18183.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+18189.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+18265.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+18271.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+18289.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,right elbow,musculosceletal system
+18291.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18315.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+18317.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+18324.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+18326.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18334.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),upper arm,right upper arm,musculosceletal system
+18346.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+18347.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+18392.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18397.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+18410.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+18413.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,thoracic spine,musculosceletal system
+18420.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,left elbow,musculosceletal system
+18449.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18450.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18470.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),pelvis,musculosceletal system
+18478.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+18493.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upright,abdomen,gastrointestinal system
+18531.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+18534.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+18548.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+18554.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+18565.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),lower leg,musculosceletal system
+18576.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+18619.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18668.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+18675.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+18681.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,right foot,musculosceletal system
+18683.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),lower leg,right distal lower leg,musculosceletal system
+18689.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+18696.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,right distal forearm,musculosceletal system
+18700.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,right distal forearm,musculosceletal system
+18702.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+18711.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+18724.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+18727.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,left distal forearm,musculosceletal system
+18728.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left distal forearm,musculosceletal system
+18730.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),upper extremity (arm),hand,right hand,musculosceletal system
+18737.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),hip,right hip,musculosceletal system
+18751.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+18756.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,lumbar spine,musculosceletal system
+18758.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+18762.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+18827.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18831.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+18844.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+18867.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,cranium,neuro cranium,musculosceletal system
+18875.png x-ray,plain radiography,analog,high beam energy,coronal,posteroanterior (PA),chest
+18876.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+18878.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+19764.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,right forearm,musculosceletal system
+19799.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,left elbow,musculosceletal system
+19820.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+19828.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left forefoot,musculosceletal system
+19837.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left forearm,musculosceletal system
+19859.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,right elbow,musculosceletal system
+19860.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,right elbow,musculosceletal system
+19932.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+19953.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+19980.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),elbow,right elbow,musculosceletal system
+190680.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+190689.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left forearm,musculosceletal system
+190721.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),lower extremity (leg),foot,right foot,musculosceletal system
+190722.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),lower extremity (leg),foot,right foot,musculosceletal system
+190747.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left forefoot,musculosceletal system
+190748.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),lower extremity (leg),foot,right foot,musculosceletal system
+190752.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),lower extremity (leg),foot,right foot,musculosceletal system
+190756.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),lower extremity (leg),foot,right foot,musculosceletal system
+190769.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left foot,musculosceletal system
+190775.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left foot,musculosceletal system
+190780.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left foot,musculosceletal system
+190788.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left foot,musculosceletal system
+190806.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),lower extremity (leg),foot,left foot,musculosceletal system
+370394.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,toe,musculosceletal system
+370429.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+370439.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),upper extremity (arm),hand,finger (unspecified),musculosceletal system
+370460.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+370472.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),foot,left foot,musculosceletal system
+370489.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+370494.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+370499.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+370512.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+370525.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+370533.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+370554.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,left distal forearm,musculosceletal system
+370619.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,right knee,musculosceletal system
+370629.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,right knee,musculosceletal system
+370651.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left tarsal bones,musculosceletal system
+370669.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+370672.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,thoracic spine,musculosceletal system
+370674.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,dens,musculosceletal system
+370690.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),cranium,facial cranium,nose area,musculosceletal system
+370698.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),cranium,facial cranium,nose area,musculosceletal system
+370718.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,nose area,musculosceletal system
+370725.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,eye area,musculosceletal system
+370729.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,eye area,musculosceletal system
+370792.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+370801.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+370826.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+370843.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+370859.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),foot,left foot,musculosceletal system
+370901.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),chest,bones,left ribs,musculosceletal system
+370968.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+370973.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+370982.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371008.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371025.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371036.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371111.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371121.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371135.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371147.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371154.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371155.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371162.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371180.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371189.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371197.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371198.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371200.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371238.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371248.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371254.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371256.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371263.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371413.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371418.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371425.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371431.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371437.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371463.png x-ray,plain radiography,analog,overview image,other orientation,occipitomental,cranium,facial cranium,nose area,musculosceletal system
+371477.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371481.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371484.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371487.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371491.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371495.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371496.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371516.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),spine,cervical spine,musculosceletal system
+371561.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+371571.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+371581.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,inclination,spine,cervical spine,musculosceletal system
+371593.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+371606.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+371673.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+371689.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),forearm,left forearm,musculosceletal system
+371701.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,right elbow,musculosceletal system
+371703.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),elbow,right elbow,musculosceletal system
+371710.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+371723.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+371760.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371790.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371862.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371869.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371870.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371894.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+371918.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),hand,carpal bones,musculosceletal system
+371921.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),radio carpal joint,left carpal joint,musculosceletal system
+371923.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),hand,carpal bones,musculosceletal system
+371983.png x-ray,plain radiography,analog,overview image,other orientation,right anterior oblique (RAO),spine,cervical spine,musculosceletal system
+371993.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+372021.png x-ray,plain radiography,analog,high beam energy,sagittal,lateral, right-left,inspiration,chest
+372031.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372032.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372034.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372039.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372069.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372074.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372085.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372088.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372092.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372099.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372101.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372132.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372135.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372136.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372144.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372151.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372200.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372205.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372210.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372211.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372236.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372238.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,right hip,musculosceletal system
+372244.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),hip,left hip,musculosceletal system
+372254.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),upper leg,musculosceletal system
+372296.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+372299.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+372306.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+372308.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),knee,left knee,musculosceletal system
+372326.png x-ray,plain radiography,analog,overview image,axial,caudocranial (transversal, axial),lower extremity (leg),knee,patella,musculosceletal system
+372336.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,right unkle joint,musculosceletal system
+372344.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+372354.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372357.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372359.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+372360.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),inspiration,chest
+372388.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372405.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),axial,upper extremity (arm),shoulder,right scapula,musculosceletal system
+372413.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),axial,upper extremity (arm),shoulder,left scapula,musculosceletal system
+372415.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+372416.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,left humero-scapular joint,musculosceletal system
+372419.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+372423.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,upper extremity (arm),shoulder,right humero-scapular joint,musculosceletal system
+372575.png x-ray,plain radiography,analog,overview image,other orientation,occipitofrontal,cranium,facial cranium,nose area,musculosceletal system
+372591.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,cranium,neuro cranium,musculosceletal system
+372616.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+372620.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+372626.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+372632.png x-ray,plain radiography,analog,overview image,sagittal,lateral, right-left,spine,cervical spine,musculosceletal system
+372641.png x-ray,plain radiography,analog,overview image,sagittal,lateral, left-right,spine,cervical spine,musculosceletal system
+372643.png x-ray,plain radiography,analog,overview image,other orientation,left anterior oblique (LAO),spine,cervical spine,musculosceletal system
+372692.png x-ray,plain radiography,analog,overview image,sagittal,lateromedial,upper extremity (arm),forearm,right distal forearm,musculosceletal system
+372709.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),hand,carpal bones,musculosceletal system
+372711.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),upper extremity (arm),radio carpal joint,right carpal joint,musculosceletal system
+372743.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372784.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372796.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372803.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372804.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372809.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372813.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372818.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372819.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372880.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372888.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372896.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372897.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372924.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372949.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372951.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372962.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+372963.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373007.png x-ray,plain radiography,analog,overview image,sagittal,upper extremity (arm),hand,finger (unspecified),musculosceletal system
+373037.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373070.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373093.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373094.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373112.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373113.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373124.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373133.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373142.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373145.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373149.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373155.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373157.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373163.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373182.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373188.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373197.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373201.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373202.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373214.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373227.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373248.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373264.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373282.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373289.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373311.png x-ray,plain radiography,analog,high beam energy,coronal,anteroposterior (AP, coronal),supine,chest
+373325.png x-ray,plain radiography,analog,overview image,coronal,posteroanterior (PA),sitting,lower extremity (leg),foot,calcaneus,musculosceletal system
+373328.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),ankle joint,left ankle joint,musculosceletal system
+373335.png x-ray,plain radiography,analog,overview image,coronal,anteroposterior (AP, coronal),lower extremity (leg),knee,left knee,musculosceletal system
+373341.png x-ray,plain radiography,analog,overview image,sagittal,mediolateral,lower extremity (leg),foot,toe,musculosceletal system
